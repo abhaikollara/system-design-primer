@@ -21,15 +21,15 @@ System design ഒരു വിശാലമായ വിഷയമാണ്.  Syst
 
 This repo is an **organized collection** of resources to help you learn how to build systems at scale.
 
-### Learn from the open source community
+### Open source communityയിൽ നിന്ന് പഠിക്കുക 
 
 This is a continually updated, open source project.
 
 [Contributions](#contributing) are welcome!
 
-### Prep for the system design interview
+### സിസ്റ്റം ഡിസൈൻ ഇന്റർവ്യൂവിനായി തയ്യാറാവുക
 
-In addition to coding interviews, system design is a **required component** of the **technical interview process** at many tech companies.
+Coding interviews കൂടാതെ, system design പല tech കമ്പനികളിലും techincal interview നടപടികളുടെ ഒരു അനിവാര്യ ഘടകമാണ്.
 
 **Practice common system design interview questions** and **compare** your results with **sample solutions**: discussions, code, and diagrams.
 
