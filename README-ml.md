@@ -9,15 +9,15 @@
 
 ## പ്രചോദനം
 
-> വന്‍കിട സിസ്റ്റംസ് രൂപകല്‌പന ചെയ്യാന്‍ പഠിക്കുക.
+> Large scale systems രൂപകൽപ്പന ചെയ്യാൻ പഠിക്കുക 
 >
 > സിസ്റ്റം ഡിസൈൻ ഇന്റർവ്യൂവിനായി തയ്യാറാവുക 
 
-### Learn how to design large-scale systems
+### Large scale systems രൂപകൽപ്പന ചെയ്യാൻ പഠിക്കുക
 
-Learning how to design scalable systems will help you become a better engineer.
+Large scale systems രൂപകൽപ്പന ചെയ്യാൻ പഠിക്കുന്നത് നിങ്ങളെ ഒരു നല്ല എഞ്ചിനീയർ ആക്കാൻ സഹായിക്കും 
 
-System design is a broad topic.  There is a **vast amount of resources scattered throughout the web** on system design principles.
+System design ഒരു വിശാലമായ വിഷയമാണ്.  System design തത്വങ്ങളെ കുറിച്ചുള്ള അനേകം resources ഇന്റർനെറ്റിൽ അങ്ങിങ്ങായി ചിതറിക്കിടപ്പുണ്ട്.
 
 This repo is an **organized collection** of resources to help you learn how to build systems at scale.
 
